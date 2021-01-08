@@ -1,0 +1,110 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    
+}
+/*************Top Area Start****************/
+h1{
+    font-size:40px;
+    font-weight: 900;
+}
+
+p{
+    color: dimgray;
+    font-size: small;
+}
+
+.hello-highlight{
+    color: #363958;
+}
+
+.name-highlight{
+    color:orange;
+}
+
+.half-width{
+    width:35%;
+    float:left;
+    margin-left:5%;
+    padding-left:2%;
+}
+
+.half-width img{
+    width:100%;
+    
+}
+
+section{
+    
+    height:350px;
+    padding: 0px 10px;
+    padding-bottom: 150px;
+        
+}
+
+.anchor-button{
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, lightsalmon, tomato, orange);
+    padding: 10px 20px;
+    font-weight: 500;
+}
+/**************About Area Start******************/
+h2{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.about-area{
+    padding-bottom:125px;
+
+}
+
+/**************Work Area Start****************/
+.latest-work{
+    text-align: center;
+}
+.work-area{
+    background-color: #F8F9FC;
+    
+}
+.one-third-width{
+    width: 25%;
+    float:left;
+    padding-left: 3.5%;
+    margin-left: 2%;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+    
+    
+
+}
+
+.one-third-width img{
+    width: 100%;
+
+}
+
+.work-inquiry-width{
+    text-align: center;
+    float: middle;
+    padding-bottom: 50px;
+}
+
+.inquiry-highlight{
+    color: black;
+}
+.connect-text{
+    color: gray;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.design-text{
+    color: #363958;
+    font-size: 30px;
+}
+.container{
+    text-align: center;
+}
